@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+requests
+reportlab
+aiofiles
+pydantic
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain
+langchain-core
+streamlit
